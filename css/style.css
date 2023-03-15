@@ -1,3 +1,12 @@
+
+.imie{
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+
 body {
   background-color: #f5f7fa;
   padding: 40px;
@@ -20,6 +29,7 @@ body {
 .education {
   margin-bottom: 60px;
 }
+
 
 .right-side {
   width: 830px;
