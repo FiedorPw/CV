@@ -1,6 +1,6 @@
 
 .imie{
-  
+    width: 370px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -141,12 +141,19 @@ body {
   color: #ff6b08;
   font-size: 18px;
 }
-
-.photo {
-  width: 370px;
+.photo-case{
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-.photo,
+.photo {
+  width: 320px;
+ 
+}
+
+
 .contacts,
 .skills,
 .widget {
