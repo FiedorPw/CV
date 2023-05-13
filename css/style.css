@@ -1,4 +1,8 @@
-
+button{
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
 .imie{
     width: 370px;
     display: flex;
