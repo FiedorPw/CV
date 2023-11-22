@@ -1,3 +1,15 @@
+
+
+.img_deg {
+  float: left;
+  margin: auto;          /* Centers the image horizontally */
+  max-width: 100%;       /* Sets the maximum width to be 100% of the container */
+  max-height: 33px;
+  margin-top: -7px;  
+  object-fit: contain; /*
+     /* Sets the maximum height of the image */
+}
+
 button{
   display: flex;
   justify-content: right;
