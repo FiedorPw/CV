@@ -5,7 +5,8 @@
   margin: auto;          /* Centers the image horizontally */
   max-width: 100%;       /* Sets the maximum width to be 100% of the container */
   max-height: 33px;
-  margin-top: -7px;  
+  margin-top: -7px;
+  margin-right: 4px;  
   object-fit: contain; /*
      /* Sets the maximum height of the image */
 }
@@ -115,7 +116,7 @@ body {
 .jobs-time,
 .education-time {
   color: #828282;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 2;
 }
 
